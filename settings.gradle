@@ -1,0 +1,4 @@
+rootProject.name = 'Spring-core'
+include 'SpringJDBC'
+rootProject.name = '1.0'
+
